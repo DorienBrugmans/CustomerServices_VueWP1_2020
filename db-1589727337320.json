@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "address": "Somestreet 10, 1234 Somecity",
+      "phone": "04986557745"
+    },
+    {
+      "id": 2,
+      "name": "Jonas Doe",
+      "address": "Somestreet 105, 1234 Somecity",
+      "phone": "04933478855"
+    },
+    {
+      "id": 3,
+      "name": "Diablo Doe",
+      "address": "Somestreet 100, 1234 Somecity",
+      "phone": "04966999785"
+    }
+  ]
+}

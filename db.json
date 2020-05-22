@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Does nothing else",
+      "address": "Somestreet 10, 1234 Somecity",
+      "phone": "04986557745"
+    },
+    {
+      "name": "Dorien Brugmans",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 2
+    },
+    {
+      "name": "Joeri Mathijs",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 12
+    },
+    {
+      "name": "Dorien Brugmans",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 13
+    },
+    {
+      "name": "Linda Leclere",
+      "address": "Melveren-centrum",
+      "phone": "",
+      "id": 14
+    },
+    {
+      "name": "Joeri Mathijs",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 15
+    },
+    {
+      "name": "Dorien Brugmans",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 16
+    },
+    {
+      "name": "Dorien Brugmans",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 17
+    },
+    {
+      "name": "Joeri Mathijs",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 18
+    },
+    {
+      "name": "Linda Leclere",
+      "address": "Melveren-centrum",
+      "phone": "",
+      "id": 19
+    },
+    {
+      "name": "Dorien Brugmans",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 20
+    },
+    {
+      "name": "Joeri Mathijs",
+      "address": "Engelbamp",
+      "phone": "+32498846375",
+      "id": 21
+    }
+  ]
+}
