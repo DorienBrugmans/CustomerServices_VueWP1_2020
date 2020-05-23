@@ -71,6 +71,9 @@ const mutations = {
     },
     setResult(state, result) {
         state.resultMessage = result;
+        setTimeout(function () {
+            state.resultMessage = "";
+        }, 5000);
     },
     removeCustomer(state, id) {
         state.customers = state.customers.filter(c => c.id !== id);

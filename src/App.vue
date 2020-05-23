@@ -20,6 +20,38 @@ export default {
 </script>
 
 <style>
+.alert-success {
+  background-color: #42b983 !important;
+  color: #ffffff !important;
+}
+
+.left {
+  text-align: left;
+}
+.errorval {
+  border-color: #d40a0a;
+}
+.alert-warning {
+  background-color: #d40a0a !important;
+  color: #ffffff;
+}
+
+.error-div {
+  background-color: #d63c3c !important;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.close:hover {
+  color: #ffffff !important;
+}
+
+.message {
+  margin: 1rem auto;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

@@ -1,16 +1,23 @@
 <template>
   <div id="app">
-    <Customers/>
+    <Customers />
   </div>
 </template>
 
 <script>
-import Customers from '../components/Customers.vue'
+import Customers from "../components/Customers.vue";
+import { mapActions } from "vuex";
 
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
     Customers
+  },
+  methods: {
+    ...mapActions(["addCustomer", "clearResult"])
+  },
+  created() {
+    this.clearResult();
   }
-}
+};
 </script>
